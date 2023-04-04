@@ -15,7 +15,7 @@ This repository contains machine learning code to downscale PM2.5 satellite obse
 ## License and Distribution
 
 The scripts in this repository are available under the terms of the GPL-3.0 License. See
-[LICENSE](https://github.com/SERVIR/aq_downscale/blob/main/LICENSE) for more information.
+[LICENSE](https://github.com/SERVIR/aq_downscale/blob/main/license.txt) for more information.
 
 ## Privacy & Terms of Use
 
