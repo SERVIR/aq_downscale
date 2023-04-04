@@ -14,7 +14,7 @@ This repository contains machine learning code to downscale PM2.5 satellite obse
 
 ## License and Distribution
 
-The scripts in this repository are avaialble under the terms of the MIT License. See
+The scripts in this repository are available under the terms of the MIT License. See
 [LICENSE](https://github.com/SERVIR/aq_downscale/blob/main/LICENSE) for more information.
 
 ## Privacy & Terms of Use
