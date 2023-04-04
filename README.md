@@ -19,5 +19,5 @@ The scripts in this repository are available under the terms of the GPL-3.0 Lice
 
 ## Privacy & Terms of Use
 
-SAMS Delivery abides to all of SERVIR's privacy and terms of use as described
+This repository abides to all of SERVIR's privacy and terms of use as described
 at [https://servirglobal.net/Privacy-Terms-of-Use](https://servirglobal.net/Privacy-Terms-of-Use).
